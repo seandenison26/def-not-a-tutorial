@@ -1,2 +1,2 @@
 # def-not-a-tutorial
-Beggining Education
+Beginning Education
